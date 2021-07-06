@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hquart
 - 👀 I’m interested in Swift/SwiftUI, Blockchain/Crypto
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on SwiftUI project crypto related
+- 💞️ I’m looking to collaborate on SwiftUI projects
 - 📫 How to reach me hquart@icloud.com
 
 <!---
